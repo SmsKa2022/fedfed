@@ -1,0 +1,14 @@
+{
+  "name": "popa2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "newpopa.js",
+  "scripts": {
+    "test": "node newpopa.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
